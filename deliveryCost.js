@@ -24,6 +24,6 @@ function deliveryCost(delivery_Number) {
     return delivery_charge
 }
 
-delivery_Number = 600;
+delivery_Number = 732;
 delivery_amount = deliveryCost(delivery_Number);
 console.log(delivery_amount)
